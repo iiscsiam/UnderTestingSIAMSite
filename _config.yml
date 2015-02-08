@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: IISc-SIAM
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: siam.iisc@gmail.com
   disqus-shortname: iiscsiam
   twitter: siamatiisc
   facebook: #username
