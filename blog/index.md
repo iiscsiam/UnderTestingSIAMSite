@@ -1,10 +1,15 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: Upcoming Events
 excerpt: "List of events."
 image:
   feature: banner3.png
   credit: WeGraphics
+=======
+title: Blog
+excerpt: "An archive of blog posts sorted by date."
+>>>>>>> FETCH_HEAD
 search_omit: true
 ---
 

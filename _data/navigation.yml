@@ -12,8 +12,13 @@
 - title: Contact
   url: /contact/
 
+<<<<<<< HEAD
 #- title: Made Mistakes
 #  url: http://mademistakes.com
+=======
+- title: Made Mistakes
+  url: http://mademistakes.com
+>>>>>>> FETCH_HEAD
 
 - title: Search
   url: /search/
