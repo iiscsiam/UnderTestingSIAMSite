@@ -4,23 +4,52 @@ title: About the Jekyll Theme
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: banner1.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: 
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+##Mission
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## So Simple Theme is all about:
+##Vision
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
-[^1]: Example: *domain.com/category-name/post-title*
+<hr/>
+
+Possibly images of the exec members...
+
+<!-- |:--------|:-------:|--------:|
+| <a href=''><img src='bio-photo.jpg' width='100' border='0'></a> <br/>FirstName LastName  | <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/> FirstName LastName  | <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName |
+| <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   | <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   | <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   |
+| <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   | <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   | <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   |
+| <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   | <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   | <a href=''><img src='bio-photo.jpg' width='100' border='0'></a><br/>  FirstName LastName   |
+|=====
+{: rules="groups"} -->
+
+<figure class="third">
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/rajnish.png" alt="image"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/rajnish.png" alt="image"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/rajnish.png" alt="image"></a>
+<!--	<figcaption>Caption describing these three images.</figcaption> -->
+</figure>
+<figure class="third">
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/kunal.png" alt="image"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/kunal.png" alt="image"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/kunal.png" alt="image"></a>
+<!--	<figcaption>Caption describing these three images.</figcaption> -->
+</figure>
+<figure class="third">
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
+	<figcaption>Execom Members.</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/ts.png" alt="image">
+	<img src="/images/tgudi.png" alt="image">
+	<figcaption>Chapter Advisors.</figcaption>
+</figure>

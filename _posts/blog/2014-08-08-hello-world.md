@@ -3,6 +3,7 @@ layout: post
 title: "Hello World"
 modified:
 categories: blog
+author: harsh_khare
 excerpt:
 tags: []
 image:

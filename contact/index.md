@@ -4,12 +4,17 @@ title: Contact
 excerpt: "Contact page."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: banner2.png
 ---
 
 Write to us at: siam _dot_ iisc _at_ gmail.com
 
 Questions?
-Something not clear or have suggestions to improve this site? Write to the webmaster with ISSUE/SUGGESTIONS to the above email.
+Something not clear or have suggestions to improve this site? Write to the webmaster with ISSUE/SUGGESTIONS in the subject to the above email.
+
+If you would like to join our meetings virtually then connect through [Zoom](http://www.zoom.us/)
+
+<img src= '/images/zoom.png' width='100' border='0'>
+
+<!-- #  credit: WeGraphics
+#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->

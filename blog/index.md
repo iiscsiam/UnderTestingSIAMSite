@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Upcoming Events
+excerpt: "List of events."
+image:
+  feature: banner3.png
+  credit: WeGraphics
 search_omit: true
 ---
+
+Check here regularly for up-to-date information about talks, programs, and workshops.
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
