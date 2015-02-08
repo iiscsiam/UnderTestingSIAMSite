@@ -5,7 +5,10 @@ locale: en_US
 description: Welcome to IISc's SIAM chapter website.
 logo: sitelogo2siamiisc.png
 search: true
-url: http://localhost:4000
+url: http://iiscsiam.github.io
+url: http://iiscsiam.github.io/about
+url: http://iiscsiam.github.io/contact
+url: http://iiscsiam.github.io/blog 
 
 # Jekyll configuration
 
