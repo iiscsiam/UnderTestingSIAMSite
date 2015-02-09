@@ -5,7 +5,9 @@ locale: en_US
 description: Welcome to IISc's SIAM chapter website.
 logo: sitelogo2siamiisc.png
 search: true
-url: http://localhost:4000
+#url: http://localhost:4000
+url: http://iiscsiam.github.io
+
 
 # Jekyll configuration
 
@@ -33,16 +35,17 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: IISc-SIAM
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: siam.iisc@gmail.com
   disqus-shortname: iiscsiam
   twitter: siamatiisc
-  facebook: #username
+  facebook: https://facebook.com/groups/446896608791588
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
   flickr: #username
   tumblr: #username
+  youtube: mukundhan.srinivasan
   google:
     plus: #username
     analytics:

@@ -45,11 +45,11 @@ Possibly images of the exec members...
 	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
-	<figcaption>Execom Members.</figcaption>
+	<figcaption>(L to R, T ro B) Execom Members.</figcaption>
 </figure>
 
 <figure class="half">
-	<img src="/images/ts.png" alt="image">
-	<img src="/images/tgudi.png" alt="image">
+	<a href="http://www.ece.iisc.ernet.in/~tsrinu/"><img src="/images/ts.png" alt="image"></a>
+	<a href="http://math.iisc.ernet.in/~gudi/"><img src="/images/tgudi.png" alt="image"></a>
 	<figcaption>Chapter Advisors.</figcaption>
 </figure>
