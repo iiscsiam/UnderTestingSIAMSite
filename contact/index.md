@@ -16,5 +16,7 @@ If you would like to join our meetings virtually then connect through [Zoom](htt
 
 <img src= '/images/zoom.png' width='100' border='0'>
 
+Help us spread the word about this chapter. Follow/like our social media pages from the link below.
+
 <!-- #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
