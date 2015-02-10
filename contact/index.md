@@ -28,7 +28,7 @@ If you would like to join our meetings virtually then connect through
 </div>
 </div>
 
-Help us spread the word about this chapter. Follow/like our social media pages from the link below.
+Help us spread the word about this chapter. Follow/like our social media pages from the link below. <i class="fa fa-arrow-circle-down fa-lg"></i>
 
 <!-- #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
