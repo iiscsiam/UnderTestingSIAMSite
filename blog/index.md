@@ -8,7 +8,9 @@ image:
 search_omit: true
 ---
 
-Check here regularly for up-to-date information about talks, programs, and workshops. Do not forget to check out the calendar below.
+Check here regularly for up-to-date information about talks, programs, and workshops. Do not forget to check out the calendar below. <i class="fa fa-hand-o-down fa-lg"></i>
+
+<br/>
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
