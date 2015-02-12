@@ -29,6 +29,13 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
+#gallerytag:
+#    dir: images/galleries
+#    url: /images/galleries
+#    thumb_width: 150
+#    thumb_height: 150
+#    columns: 4
+
 # Site owner
 owner:
   name: IISc-SIAM
