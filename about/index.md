@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About IISc-SIAM chapter
-excerpt: "About the IISc-SIAM chappter."
+excerpt: "About the IISc-SIAM chapter."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: banner1.jpg
