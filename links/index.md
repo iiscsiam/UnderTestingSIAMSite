@@ -7,13 +7,13 @@ image:
   feature: banner2.png
 ---
 
-SIAM
+###SIAM
 
 * [SIAM's Conference Calender](http://www.siam.org/meetings/calendar.php)
 * [Other student chapters](http://www.siam.org/students/chapters/current.php)
 * [SIAM Homepage](http://www.siam.org/)  
 
-IISc
+###IISc
 
 * [IISc Homepage](http://www.iisc.ernet.in/)
 *  list other departments that may be of interest.

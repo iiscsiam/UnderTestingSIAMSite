@@ -29,16 +29,17 @@ Possibly images of the exec members...
 |=====
 {: rules="groups"} -->
 
+###Chapter Officers
 <figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/rajnish.png" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/rajnish.png" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/rajnish.png" alt="image"></a>
+	<a href="/images/rajnish.png"><img src="/images/rajnish.png" alt="image"></a>
+	<a href="/images/rajnish.png"><img src="/images/rajnish.png" alt="image"></a>
+	<a href="/images/rajnish.png"><img src="/images/rajnish.png" alt="image"></a>
 <!--	<figcaption>Caption describing these three images.</figcaption> -->
 </figure>
 <figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/kunal.png" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/kunal.png" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/kunal.png" alt="image"></a>
+	<a href="/images/kunal.png"><img src="/images/kunal.png" alt="image"></a>
+	<a href="/images/kunal.png"><img src="/images/kunal.png" alt="image"></a>
+	<a href="/images/kunal.png"><img src="/images/kunal.png" alt="image"></a>
 <!--	<figcaption>Caption describing these three images.</figcaption> -->
 </figure>
 <figure class="third">
@@ -48,6 +49,7 @@ Possibly images of the exec members...
 	<figcaption>Execom Members.</figcaption>
 </figure>
 
+###Faculty Advisors
 <figure class="half">
 	<img src="/images/ts.png" alt="image">
 	<img src="/images/tgudi.png" alt="image">
