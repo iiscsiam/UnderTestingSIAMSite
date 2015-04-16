@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Hello World - The Chair's message"
 modified:
 categories: blog
 author: harsh_khare
