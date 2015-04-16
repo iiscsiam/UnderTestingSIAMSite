@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Welcome
+excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 title: About IISc-SIAM chapter
 excerpt: "About the IISc-SIAM chapter."
 modified: 2014-08-08T19:44:38.564948-04:00
@@ -29,7 +31,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ###Chapter Officers
 <figure class="third">
-	<a href="/images/rajnish.png"><img src="/images/rajnish.png" alt="image"></a>
+	<a href="/images/kunal.png"><img src="/images/rajnish.png" alt="image"></a>
 	<a href="/images/kunal.png"><img src="/images/kunal.png" alt="image"></a>
 	<a href="/images/harsh.png"><img src="/images/harsh.png" alt="image"></a>
 <figcaption>(L-R) Dr. Rajnish Mallick (President) | Kunal Patil (Vice President) | Harsh Bansia (Secretary)</figcaption> 
@@ -43,14 +45,16 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
 	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
+<<<<<<< HEAD
 	<figcaption>Execom Members.</figcaption>
 </figure>-->
 
 <hr/>
 
+
 ###Faculty Advisors
 <figure class="half">
-	<a href="http://www.ece.iisc.ernet.in/~tsrinu/" target="_blank"><img src="/images/ts.png" alt="image"></a>
-	<a href="http://math.iisc.ernet.in/~gudi/" target="_blank"><img src="/images/tgudi.png" alt="image"></a>
-	<figcaption>(L-R) Prof. T. Srinivas (ECE, IISc) and Prof. T. Gudi (Math, IISc).</figcaption>
+	<a href="http://www.ece.iisc.ernet.in/~tsrinu/"><img src="/images/ts.png" alt="image"></a>
+	<a href="http://math.iisc.ernet.in/~gudi/"><img src="/images/tgudi.png" alt="image"></a>
+	<figcaption>Chapter Advisors.</figcaption>
 </figure>
