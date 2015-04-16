@@ -6,10 +6,7 @@ description: Welcome to IISc's SIAM chapter website.
 logo: sitelogo2siamiisc.png
 search: true
 url: http://localhost:4000
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
 
 # Jekyll configuration
 
@@ -32,8 +29,7 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
-<<<<<<< HEAD
-=======
+
 mini_magick:
     gallery_1_thumbnail:
       source: /images/galleries/gallery_1
@@ -58,8 +54,6 @@ mini_magick:
       commands:
         - resize: "200x200"
 
->>>>>>> origin/master
-
 # Site owner
 owner:
   name: IISc-SIAM
@@ -67,23 +61,16 @@ owner:
   email: siam.iisc@gmail.com
   disqus-shortname: iiscsiam
   twitter: siamatiisc
-<<<<<<< HEAD
   facebook: https://facebook.com/groups/446896608791588
-=======
-  facebook: http://www.facebook.com/groups/446896608791588/
->>>>>>> origin/master
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
   flickr: #username
   tumblr: #username
-<<<<<<< HEAD
   youtube: mukundhan.srinivasan
-=======
   siamsite: http://www.siam.org/
   youtube: http://www.youtube.com/channel/UCsov0bmrmmv3mhtQiBn-UEA
->>>>>>> origin/master
   google:
     plus: #username
     analytics: UA-59686728-1
