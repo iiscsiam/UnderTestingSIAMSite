@@ -31,27 +31,20 @@ Possibly images of the exec members...
 
 ###Chapter Officers
 <figure class="third">
-	<a href="/images/rajnish.png"><img src="/images/rajnish.png" alt="image"></a>
-	<a href="/images/rajnish.png"><img src="/images/rajnish.png" alt="image"></a>
-	<a href="/images/rajnish.png"><img src="/images/rajnish.png" alt="image"></a>
-<!--	<figcaption>Caption describing these three images.</figcaption> -->
+	<a href="/images/kunal.png"><img src="/images/rajnish.png" alt="image"></a>
+	<a href="/images/kunal.png"><img src="/images/kunal.png" alt="image"></a>
+	<a href="/images/harsh.png"><img src="/images/harsh.png" alt="image"></a>
+<figcaption>(L-R) Dr. Rajnish Mallick (President) | Kunal Patil (Vice President) | Harsh Bansia (Secretary)</figcaption> 
 </figure>
 <figure class="third">
-	<a href="/images/kunal.png"><img src="/images/kunal.png" alt="image"></a>
-	<a href="/images/kunal.png"><img src="/images/kunal.png" alt="image"></a>
-	<a href="/images/kunal.png"><img src="/images/kunal.png" alt="image"></a>
-<!--	<figcaption>Caption describing these three images.</figcaption> -->
-</figure>
-<figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="/images/harshKhare.png" alt="image"></a>
-	<figcaption>Execom Members.</figcaption>
+	<a href="/images/harshKhare.png"><img src="/images/harshKhare.png" alt="image"></a>
+	<a href="/images/venkat.png"><img src="/images/venkat.png" alt="image"></a>
+<figcaption>(L-R) Harshavardhan Khare (Treasurer) | Venkata Satyanand Mutnuri (Co-Treasurer) </figcaption>
 </figure>
 
 ###Faculty Advisors
 <figure class="half">
-	<img src="/images/ts.png" alt="image">
-	<img src="/images/tgudi.png" alt="image">
+	<a href="http://www.ece.iisc.ernet.in/~tsrinu/"><img src="/images/ts.png" alt="image"></a>
+	<a href="http://math.iisc.ernet.in/~gudi/"><img src="/images/tgudi.png" alt="image"></a>
 	<figcaption>Chapter Advisors.</figcaption>
 </figure>
